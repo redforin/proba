@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666543000196",
+    "project_id": "proba-40a5a",
+    "storage_bucket": "proba-40a5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666543000196:android:8228ba4d546735178590d1",
+        "android_client_info": {
+          "package_name": "com.example.proba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzx4w8ccMIiWvZUXBKAlL60diIwLMs5ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
